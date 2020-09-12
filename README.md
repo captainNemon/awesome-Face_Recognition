@@ -298,8 +298,9 @@ also, some papers and links collected from:
 - Boyi Jiang, Juyong Zhang, Bailin Deng, Yudong Guo, Ligang Liu .[Deep Face Feature for Face Alignment](https://arxiv.org/pdf/1708.02721) .[J] arXiv preprint arXiv:1708.02721.
 - Feng Liu, Qijun Zhao, Xiaoming Liu, Dan Zeng .[Joint Face Alignment and 3D Face Reconstruction with Application to Face  Recognition](https://arxiv.org/pdf/1708.02734) .[J] arXiv preprint arXiv:1708.02734.
 - Jiankang Deng, George Trigeorgis, Yuxiang Zhou, Stefanos Zafeiriou .[Joint Multi-view Face Alignment in the Wild](https://arxiv.org/pdf/1708.06023) .[J] arXiv preprint arXiv:1708.06023.
-- Fengju Chang, Anh Tuan Tran, Tal Hassner, Iacopo Masi, Ram Nevatia, Gerard Medioni .[FacePoseNet: Making a Case for Landmark-Free Face Alignment](https://arxiv.org/pdf/1708.07517) .[J] arXiv preprint arXiv:1708.07517.
+- 【FacePoseNet】Fengju Chang, Anh Tuan Tran, Tal Hassner, Iacopo Masi, Ram Nevatia, Gerard Medioni .[FacePoseNet: Making a Case for Landmark-Free Face Alignment](https://arxiv.org/pdf/1708.07517) .[J] arXiv preprint arXiv:1708.07517.
    * Code available [Yes]: https://github.com/fengju514/Face-Pose-Net
+   * Framework: Tensorflow
 - Yaojie Liu, Amin Jourabloo, William Ren, Xiaoming Liu .[Dense Face Alignment](https://arxiv.org/pdf/1709.01442) .[J] arXiv preprint arXiv:1709.01442.
 - Chong Wang, Xipeng Lan, Yangang Zhang .[Model Distillation with Knowledge Transfer from Face Classification to  Alignment and Verification](https://arxiv.org/pdf/1709.02929) .[J] arXiv preprint arXiv:1709.02929.
 - Xin Fan, Risheng Liu, Kang Huyan, Yuyao Feng, Zhongxuan Luo .[Self-Reinforced Cascaded Regression for Face Alignment](https://arxiv.org/pdf/1711.08624) .[J] arXiv preprint arXiv:1711.08624.
